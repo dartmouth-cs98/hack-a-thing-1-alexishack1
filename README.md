@@ -3,6 +3,7 @@ Alexis Harris, CS 98
 
 ## What I Built
 I followed three Unity tutorials to build 3 games. The first was a personalized Karting Game that is a set demo in Unity. The second was a Nav Mesh tutorial that harnessed Unity's AI NavMesh capabilities to move a character around. The third was a "Roll-a-ball" game. All three games are playable and show some of what Unity can do.
+(In the NavMesh example folder, the ones I produced are the UnityExampleXX files, the others are part of the tutorial)
 
 ## What I Learned
 I have never used Unity before; I didn't even know this kind of platform existed. It took me a while to get a hang of the UI/where to look for certain components, but I think I definitely got a better handle of it by the Roll-a-Ball tutorial (the third one I did). I learned how to use Unity Engine's built in functions/objects to write scripts which made my games more interactive and animated, which was super cool. For example, I wrote a script which made my game tokens rotate automatically and another that moved my game player to wherever the player of the game clicked on the game board. I had no idea how easy it would be to design a game, especially in terms of graphics, which I assumed would be very difficult to build and animate. I think I could confidently build a game on my own after doing these tutorials, but I have a lot more to learn about the more advanced animations that are possible in Unity.
